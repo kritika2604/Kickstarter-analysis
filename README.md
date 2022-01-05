@@ -13,7 +13,7 @@ The kickstarter data which has the names of kickstarter campaigns along with the
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/94858846/148283192-63358cdf-56a1-4865-bd59-4e2466274f55.png">
 
-3. Checking the theatre category with plays for the successful campaigns. 
+3. Checking the theatre category with plays as sub category for the successful campaigns. 
 
  <img width="882" alt="image" src="https://user-images.githubusercontent.com/94858846/148283424-9d8a47eb-4810-4254-9745-e4ad6423df77.png">
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/94858846/148283590-a7598bb6-8cfb-4e59-8c8c-9e288acaaa52.png">
@@ -26,7 +26,7 @@ The kickstarter data which has the names of kickstarter campaigns along with the
 Had there been not enough data for Plays this analysis would have been difficult to investigate!
 
 **Results**
-It was evident that the kickstarter campaigns  which were launched during the spring to summer periods of April-May were the most successfull. 
+It was evident that the kickstarter campaigns  which were launched during the spring to summer periods, especially May (from the year 2009 to 2017) was the most successfull. 
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/94858846/148284638-04ede373-2905-4dbe-9bfe-6c8cc3f09e82.png">
 
@@ -35,5 +35,10 @@ Also, the kickstarter campaigns for plays,which had a goal of upto $15,000 as we
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/94858846/148285007-bb592a3b-36e4-4e24-8807-b036324f4909.png">
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/94858846/148285267-9de74437-f91f-4bfd-8223-ffeb69c180fc.png">
 
+**Limitations**
+There are a couple of years for which the complete data was not available for all the months launch date, including the latest year of 2017. 
+
+**Recommendations**
+Having more sub-categories under plays would bring a more clearer picture.
 
 
